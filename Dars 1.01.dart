@@ -9,7 +9,7 @@ class Home {
 
   String describeSize() {
     if (numOfRooms >= 10) {
-      return "Juda katta uy"
+      return "Juda katta uy";
     } else {
       return "O'rtacha uy";
     }
